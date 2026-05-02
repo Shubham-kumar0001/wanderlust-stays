@@ -128,11 +128,14 @@ wanderlust-stays/
 
 ## 📸 Screenshots
 
-> *Add screenshots of your app here*
+### 🏠 Home Page — Browse all listings with category filters
+![Home Page](screenshots/screenshot_home.png)
 
-| Home Page | Listing Detail | Map View |
-|-----------|---------------|----------|
-| ![Home]() | ![Detail]() | ![Map]() |
+### ➕ Create a New Listing
+![Create Listing](screenshots/screenshot_listing.png)
+
+### 🗺️ Map View — "Where you'll be"
+![Map View](screenshots/screenshot_map.png)
 
 ---
 
