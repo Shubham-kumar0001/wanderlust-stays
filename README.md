@@ -129,13 +129,13 @@ wanderlust-stays/
 ## 📸 Screenshots
 
 ### 🏠 Home Page — Browse all listings with category filters
-![Home Page](screenshots/screenshot_home.png)
+![Home Page](https://github.com/user-attachments/assets/86037168-f609-4319-b6e8-f134cf91373e)
 
 ### ➕ Create a New Listing
-![Create Listing](screenshots/screenshot_listing.png)
+![Create Listing](https://github.com/user-attachments/assets/3ccd5d4f-4465-419e-8257-d11b6304eb77)
 
 ### 🗺️ Map View — "Where you'll be"
-![Map View](screenshots/screenshot_map.png)
+![Map View](https://github.com/user-attachments/assets/5493d874-d2b5-40ef-b0d8-aaa02e6fe841)
 
 ---
 
